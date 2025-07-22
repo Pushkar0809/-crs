@@ -12,7 +12,7 @@ import java.util.Map;
 public class Reservation {
     public static void main(String[] args) throws InterruptedException{
 
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Imperativ\\Downloads\\chromedriver-win64\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\DELL\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 
         // Path to your Chrome profile
         String profilePath = "C:\\Users\\Imperativ\\AppData\\Local\\Google\\Chrome\\User Data";
